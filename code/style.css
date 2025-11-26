@@ -1,0 +1,16 @@
+li{
+    list-style-type: none;
+    float: left;
+    
+}
+ul{
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 110px;
+    margin-top: 30px;
+}
