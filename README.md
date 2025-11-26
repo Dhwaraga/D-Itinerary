@@ -14,8 +14,7 @@ The project includes webpage layout design, typography, navigation system creati
 * Cloud Computing
 * Digital Marketing
 * Hosting & Testing Solutions
-  (Ref: Pages 9–11) 
-
+  
 ## Internship Role
 
 * Learning and applying HTML & CSS
@@ -34,7 +33,6 @@ D-Itinerary is a travel assistance website that provides:
 * Search Page for enquiries
 * Terms & Conditions Page
 * Login Page
-
 The design prioritizes clean layout, good typography, responsive sections, and user-friendly navigation. 
 
 ## Fundamental Components
@@ -85,7 +83,7 @@ The outputs include:
 
 ## References
 
-Full reference list is provided on **Page 28** of the report and includes MDN, W3Schools, Google Developers, Font Awesome, etc. 
+Full reference list is provided on Page 28 of the report and includes MDN, W3Schools, Google Developers, Font Awesome, etc. 
 
 ## Repository Structure
 
@@ -123,4 +121,4 @@ GitHub: https://github.com/Dhwaraga
 
 
 
-Just tell me!
+
